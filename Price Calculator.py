@@ -1,4 +1,4 @@
-print("CeX Profit Checker (No support for colour)")
+print("CeX Profit Checker (No support for colour)\nPlease write model numbers as (ModelName).(StorageSize) e.g 16ProMax.512 for an iphone 16 Pro Max with 512GB storage.\nMade by Enis Bayram")
 category = input("Enter Category (Apple Watch), (iPod Classic), (iPhone): ")
 
 if category == "iPod Classic":
